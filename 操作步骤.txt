@@ -1,0 +1,7 @@
+1.win+R 输入cmd
+2.cd C:\Users\15103\Desktop\人脸识别opencv代码\face_recognition
+3.conda activate opencv
+4.python dataRecord.py
+5.python dataManage.py
+6.python core.py
+7.关闭终端就行了！
